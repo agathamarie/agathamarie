@@ -51,7 +51,7 @@
 <br>
 
 ### 🍥 - Most Used Lenguages
-> ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=agathamarie&layout=compact&title_color=FF69B4&text_color=FF69B4&bg_color=FFFFFF&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=agathamarie&layout=compact&title_color=FF69B4&text_color=FF69B4&bg_color=FFFFFF&hide_border=true)
 
 <br>
 
