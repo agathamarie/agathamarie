@@ -60,7 +60,7 @@ Hello! My name is Agatha Marie (In Portuguese, it sounds like "The Cat Marie"). 
 
 Since childhood, I have had a passion for technology and programming. I used Scratch and PowerPoint to create games, watched numerous videos about assembling and disassembling computers, watched reviews of hardware components, and tried basic programming with C language. I also enjoy organizing, creating tables, routines, and systems, which greatly supports my programming work. I am accustomed to analyzing, comparing, and organizing data. Still in the tech world, I love games and the idea of creating my own worlds and stories, and my creativity helps me find quick solutions to challenges. Outside of technology, I am passionate about music, art, and writing, which are personal aspects of my personality that I also hope to develop further.
 
-Overall, I am a dedicated, attentive, creative, and communicative person. I believe that every experience, regardless of the circumstances or location, is an opportunity for learning. By embracing these opportunities, I strive to make my life more vibrant and colorful.
+Overall, I am a dedicated, attentive, creative, and communicative person. I believe that every experience, regardless of the circumstances or location, is an opportunity for learning. With that mindset, I strive to make my life more colorful.
 
 <br>
 <img src="div.png" alt="div">
